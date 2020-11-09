@@ -42,7 +42,7 @@ NUMBER_KFOLDS = 5 #number of KFolds for cross-validation
 
 
 
-RANDOM_STATE = 2018
+RANDOM_STATE = 2020
 
 
 MAX_ROUNDS = 1000 #lgb iterations
